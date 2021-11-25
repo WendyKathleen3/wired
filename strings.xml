@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">ProductManagement</string>
+    <string name="esd">Enter Stock Details</string>
+    <string name="sn">Stock Name</string>
+    <string name="soh">StockOnHand</string>
+    <string name="sit">StockInTransit</string>
+    <string name="pr">Stock Price</string>
+    <string name="roq">Reorder Quantity</string>
+    <string name="roa">Reorder Amount</string>
+    <string name="insert_stock">Insert Stocks</string>
+    <string name="views_stock">View Stocks</string>
+    <string name="update_stock">Update Stocks</string>
+    <string name="sid">Stock Id</string>
+</resources>
